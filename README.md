@@ -1,2 +1,2 @@
-# Mercadapp-
-Projeto de estudo feito apenas com html + javascript, para criar lista de compras de mercado.
+# Mercadapp
+Projeto de estudo feito com HTML5 + Bootstrap + AngularJS
